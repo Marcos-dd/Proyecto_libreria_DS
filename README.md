@@ -1,5 +1,5 @@
 # LIBRERÍA DE LA CLASE DE LA CLASE DE DATA SCIENCE DE THE BRIDGE, GRUPO DE SEPTIEMBRE 2022 MODALIDAD FULL TIME
-
+pyquirrinds 0.0.1
 ## Esta librería incluye funciones de limpieza, visualización y machine learning
 
 
